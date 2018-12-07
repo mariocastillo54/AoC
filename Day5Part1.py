@@ -30,5 +30,4 @@ while check == 0:
     endlen = len(react)
     if startlen == endlen:
         check = 1
-print(react)
 print(len(react))
